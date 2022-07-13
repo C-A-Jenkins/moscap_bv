@@ -1,4 +1,4 @@
 # moscap_bv
 Moscap analysis scripts
 
-Adding a line here
+The testscript.R allows user to run moscap_bv analysis
